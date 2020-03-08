@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    width: 970px;
+    background-color: rgb(196, 193, 195);
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
+.section{
+    border-top: 3px solid rgb(235, 15, 161);
+    width: 100%;
+}
+
+#header2{
+display: inline-block;
+vertical-align: top;
+margin-left: 100px;
+width: 400px;
+}

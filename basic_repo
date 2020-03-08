@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="basic_repo.css">
+
+    <title>Document</title>
+    <div id="wrapper">
+        <div id="header">
+        <h1 class="main_header">Welcome to Chicago</h1>
+        </form>
+            <p>Search for the best food.</p><input type="text" placeholder="search">
+        </div>
+    </div>
+</head>
+<body>
+    
+</body>
+</html>
